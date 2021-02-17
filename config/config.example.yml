@@ -1,0 +1,6 @@
+env: dev
+mongoData:
+  connectionString: mongodb://root@localhost
+  database: silverbroccoli
+telegram:
+  botKey: 12345678:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
